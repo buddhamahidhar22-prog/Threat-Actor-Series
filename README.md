@@ -1,6 +1,6 @@
 # 🛡️ Threat Actor Series
 
-Welcome to my **Threat Actor Series** — a monthly cybersecurity research project where I study real-world threat actors from a **Blue Team** and **Defender's** perspective.
+Welcome to my **Threat Actor Series**: a monthly cybersecurity research project where I study real-world threat actors from a **Blue Team** and **Defender's** perspective.
 
 Rather than simply documenting who these groups are, this series focuses on understanding **how they operate**, **why their attacks succeed**, and **how defenders can detect, investigate, and respond to them** using modern security practices and Microsoft security technologies.
 
