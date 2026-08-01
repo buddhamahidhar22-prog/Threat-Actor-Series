@@ -45,8 +45,9 @@ Each Threat Actor report follows a consistent structure:
 | # | Threat Actor | Status |
 |---|--------------|--------|
 | 001 | LAPSUS$ | ✅ Published |
-| 002 | Coming Soon | 🚧 |
+| 002 | Scattered Spiders | ✅ Published |
 | 003 | Coming Soon | 🚧 |
+| 004 | Coming Soon | 🚧 |
 
 
 
